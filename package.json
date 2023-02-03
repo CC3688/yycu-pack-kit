@@ -1,9 +1,9 @@
 {
   "name": "yycu-pack-kit",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "bin": {
-    "yycu-pack-kit": "./index.js"
+    "yycupack-kit": "./index.js"
   },
   "files": [
     "index.js"
